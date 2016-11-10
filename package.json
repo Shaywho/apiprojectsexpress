@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "apiprojects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaywho/expressjs.git"
+  },
+  "author": "ty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaywho/expressjs/issues"
+  },
+  "homepage": "https://github.com/Shaywho/expressjs#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
